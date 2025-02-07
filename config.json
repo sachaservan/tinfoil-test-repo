@@ -1,15 +1,8 @@
 {
     "models": [
-        "llama3.2:1b",
-        "llama-guard3:1b",
-        "qwen2.5-coder:0.5b",
-        "nomic-embed-text"
+        "llama3.2:1b"
     ],
     "paths": [
-        "/api/chat",
-        "/v1/chat/completions",
-        "/api/generate",
-        "/api/embed",
-        "/v1/embeddings"
+        "/api/chat"
     ]
 }
